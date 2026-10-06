@@ -145,3 +145,7 @@ vite.config.ts.timestamp-*
 # 講師專用（ETL 救援程式，不進 template）
 _instructor/
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
